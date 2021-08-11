@@ -9,7 +9,7 @@ npm-debug.log
 yarn-error.log
 
 # babel
-lib
+# lib
 
 # jest
 coverage
